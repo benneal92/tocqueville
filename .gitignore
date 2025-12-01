@@ -1,3 +1,6 @@
+*.tex
+*.txt
+images/
 sources/
 
 # LaTeX intermediate files
@@ -36,8 +39,6 @@ build/*
 *.swp
 *.tmp
 
-# PDF files
-*.pdf
 
 # Other files
 *.dvi
